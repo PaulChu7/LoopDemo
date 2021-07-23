@@ -59,11 +59,9 @@
     <Compile Include="Assets\Scripts\NewScripts\DoorLockScript.cs" />
     <Compile Include="Assets\Scripts\NewScripts\GameManagerScript.cs" />
     <Compile Include="Assets\Scripts\SceneChanger.cs" />
-    <Compile Include="Assets\Scripts\NewScripts\Pin1.cs" />
+    <Compile Include="Assets\Scripts\NewScripts\Pin.cs" />
     <Compile Include="Assets\Scripts\NewScripts\ToolsScript.cs" />
     <Compile Include="Assets\Scripts\Timer.cs" />
-    <Compile Include="Assets\Scripts\NewScripts\Pin3.cs" />
-    <Compile Include="Assets\Scripts\NewScripts\Pin2.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

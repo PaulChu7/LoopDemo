@@ -2,9 +2,9 @@
 
 public class DoorLockScript : MonoBehaviour
 {
-    [SerializeField] private Pin1 pin1;
-    [SerializeField] private Pin2 pin2;
-    [SerializeField] private Pin3 pin3;
+    [SerializeField] private Pin pin1;
+    [SerializeField] private Pin pin2;
+    [SerializeField] private Pin pin3;
 
     public bool IsUnlocked => pin1.IsUnlocked && pin2.IsUnlocked && pin3.IsUnlocked;
 
